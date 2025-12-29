@@ -1,0 +1,13 @@
+[[mgr.prepend_keymap]]
+on = [ "g", "i" ]
+run = '''
+shell 'gitui' --block
+'''
+desc = "Open gitui"
+
+[[mgr.prepend_keymap]]
+on = ["g", "o"]
+run = '''
+shell 'gitui' --block
+'''
+desc = "Open gitui"
