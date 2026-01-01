@@ -1,0 +1,13 @@
+[font]
+normal = { family = "hack" }
+bold = { family = "hack" }
+italic = { family = "hack" }
+bold_italic = { family = "hack" }
+size = 10
+builtin_box_drawing = true 
+
+[keyboard]
+bindings = [
+   { key = "Return", mods = "Control|Shift", action = "SpawnNewInstance" },
+   { key = "Return", mods = "Alt|Shift", action = "SpawnNewInstance" }
+]
