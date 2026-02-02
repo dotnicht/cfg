@@ -1,9 +1,9 @@
 [font]
-normal = { family = "hack" }
-bold = { family = "hack" }
-italic = { family = "hack" }
-bold_italic = { family = "hack" }
-size = 10
+normal = { family = "hacknerdfont" }
+bold = { family = "hacknerdfont" }
+italic = { family = "hacknerdfont" }
+bold_italic = { family = "hacknerdfont" }
+size = 12
 builtin_box_drawing = true 
 
 [keyboard]

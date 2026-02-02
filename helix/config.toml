@@ -27,9 +27,4 @@ o = [
   ":open %sh{cat /tmp/unique-file-h21a434}",
   ":redraw",
 ]
-i = [
-    ":write-all",
-    ":insert-output lazygit >/dev/tty",
-    ":redraw",
-    ":reload-all"
-]
+
