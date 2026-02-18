@@ -3,7 +3,7 @@ normal = { family = "hacknerdfont" }
 bold = { family = "hacknerdfont" }
 italic = { family = "hacknerdfont" }
 bold_italic = { family = "hacknerdfont" }
-size = 12
+size = 11
 builtin_box_drawing = true 
 
 [keyboard]
