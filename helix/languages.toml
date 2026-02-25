@@ -1,6 +1,9 @@
 [[language]]
 name = "c-sharp"
-language-servers = ["omnisharp"]
+language-servers = ["omnisharp", "csharp-ls"]
 
 [language-server.omnisharp]
 command = "OmniSharp"
+
+[language-server.csharp-ls]
+command = "csharp-ls"
