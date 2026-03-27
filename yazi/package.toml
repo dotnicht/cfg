@@ -1,5 +1,7 @@
-[plugin]
-deps = []
+[[plugin.deps]]
+use = "masaki39/confirm-quit"
+rev = "f982283"
+hash = "95a05280a6e553fd7259519eaff0f773"
 
 [flavor]
 deps = []

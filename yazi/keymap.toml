@@ -1,9 +1,7 @@
 [[mgr.prepend_keymap]]
-on = [ "g", "i" ]
-run = '''
-shell 'gitui' --block
-'''
-desc = "Open gitui"
+on  = "q"
+run = "plugin confirm-quit"
+desc = "Confirm quit if multiple tabs are open"
 
 [[mgr.prepend_keymap]]
 on = ["g", "o"]
