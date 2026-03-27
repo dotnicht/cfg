@@ -4,6 +4,4 @@
 !gitui/
 !alacritty/
 !hypr/
-!fish/
-!fish/functions/
-!fish/functions/*.fish
+!fish/**
